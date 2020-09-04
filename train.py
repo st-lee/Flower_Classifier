@@ -199,6 +199,7 @@ checkpoint = {'arch' : arch,
               'device' : device,
               'epochs' : epochs,
               'dropout' : dropout,
+              'classifier' : model.classifier, 
               'state_dict' : model.state_dict(),
               'class_to_idx' : model.class_to_idx}
 
