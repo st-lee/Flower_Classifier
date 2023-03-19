@@ -16,7 +16,7 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 # Files
 
-1. `Image Classifier Project.ipynb/.html`: This is the Jupyter Notebook where I go through the whole flow from loading data to predicting flower category. The HTML form is convert from the ipynb, which is ease for mentor reviewing.
+1. `Image Classifier Project.ipynb.html`: This is the Jupyter Notebook where I go through the whole flow from loading data to predicting flower category. The HTML form is convert from the ipynb, which is ease for mentor reviewing.
 
 2. `train.py`: This is the first half code of the project, which contains loading data, buliding and training the classifier and saving the model.
 
